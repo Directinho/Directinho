@@ -43,19 +43,24 @@
 <body>
 <div>
 <p>
+
 <h1 height="150" align="center">Connections</h>
-<img height="100" align="left" src="https://i.imgur.com/3ykbALG.gif"/>
-<img height="100" align="right" src="https://i.imgur.com/3ykbALG.gif"/>
+<img height="80" align="left" src="https://i.imgur.com/3ykbALG.gif"/>
+<img height="80" align="right" src="https://i.imgur.com/3ykbALG.gif"/>
 
 </p>
 </div>
 <p>
-
-<img height="120cm" align="center" id="Twitter" src="https://i.imgur.com/qCNG93Z.png"> 
+<img height="120cm" align="center" id"Steam" src="https://i.imgur.com/trn2Gyb.png"/>
 <img height="120cm" align="center" id"Xbox" src="https://i.imgur.com/JuFWG8m.png"/>
+<img height="120cm" align="center" id="PS4" src="https://i.imgur.com/580TZ9e.png"/> 
+<img height="120cm" align="center" id="Twitter" src="https://i.imgur.com/qCNG93Z.png"/> 
 <img height="120cm" align="center" id"Medal" src="https://i.imgur.com/wS8Ekmn.png"/>
 <img height="120cm" align="center" id"GameBanana" src="https://i.imgur.com/Uj3fGeC.png"/>
- 
+<img height="120cm" align="center" id="Gamejolt" src="https://i.imgur.com/fIYdmV9.png"/>
+</p>
+<p>
+<img height="120cm" align="center" id="Newgrounds" src="https://i.imgur.com/onYM3YN.png"/> 
 </p>
 <p>
 
