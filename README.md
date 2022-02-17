@@ -61,6 +61,7 @@
 </p>
 <p>
 <img height="15cm" weight="15" alt="Website" event.site(onclick)="https://steamcommunity.com/id/AqueleDirect/" src="https://img.shields.io/website?color=blue&down_color=dark&down_message=online&label=%E3%8B%94%20O%20DIRECT%20DO%20MATO%20%E3%83%84&logo=Steam&logoColor=light&style=for-the-badge&up_color=blue&up_message=Steam&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2FAqueleDirect%2F">
+<img height="15cm" alt="Website" src="https://img.shields.io/website?down_color=yellow&down_message=Medal&label=Tio%20Direct%E3%83%84&logo=Minecraft&up_color=Yellow&up_message=Medal&url=https%3A%2F%2Fmedal.tv%2Fu%2FTio%2520Direct%25E3%2583%2584%3Finvite%3Dur-MSxlbTUsMzA4NTMzNzks">
 </p>
 <p>
 <img height="120cm" align="center" id="Newgrounds" src="https://i.imgur.com/onYM3YN.png"/> 
