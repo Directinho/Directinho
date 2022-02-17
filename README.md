@@ -10,38 +10,46 @@
 </div>
 <div>
 <p>
-<h1>About Me</h1>
 	
 	
 </p>	
 </div>
 <div>
 <p>
+	
+<h1 align="down">languages used</h1>
+	
 <img height="180" align="center" src="https://media1.giphy.com/media/MOCQX3U6wKPFDPGyoc/giphy.gif?cid=790b76115e940468ded39105be04c454f8e35b883dfa7b68&rid=giphy.gif&ct=g"/>
 <img height="160cm" weight="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Directinho&show=langs_count=3"/>
 
 </p>
 </div>
-	</body>
+</body>
 <body>
 <div>
 <p>	
-<h1>languages used</h1>
 
-<img height="50cm" align="center" id="elma3" src="https://i.imgur.com/N3A969j.gif"/>
-<img height="50cm" align="center" id="Javascripticon" src="https://i.imgur.com/pSDXRKs.png" onclick=(https://developer.mozilla.org/en-US/docs/Web/JavaScript)/>
-<img height="50" align="center" id="PynthonIcon" src="https://i.imgur.com/3xopVhI.png" onclick=(https://www.python.org/psf/)/> 
-<img height="50" align="center" id="typescript" src="https://i.imgur.com/LHJzvaI.png" onclick=(https://www.typescriptlang.org)/>
-<img height="50cm" align="center" id="elma3" src="https://i.imgur.com/N3A969j.gif"/>
+
+<img height="100cm" align="center" id="elma3" src="https://i.imgur.com/N3A969j.gif"/>
+<img height="100cm" align="center" id="Javascripticon" src="https://i.imgur.com/pSDXRKs.png" onclick=(https://developer.mozilla.org/en-US/docs/Web/JavaScript)/>
+<img height="100" align="center" id="PynthonIcon" src="https://i.imgur.com/3xopVhI.png" onclick=(https://www.python.org/psf/)/> 
+<img height="100cm" align="center" id="typescript" src="https://i.imgur.com/LHJzvaI.png" onclick=(https://www.typescriptlang.org)/>
+<img height="100cm" align="center" id="elma3" src="https://i.imgur.com/N3A969j.gif"/>
 
 </p>
 </div>
-	
 
+</body>	
+<body>
 <div>
 <p>
 
-<h1>Connection</h1>
+<img src"=https://i.imgur.com/3ykbALG.gif">	
+</p><h1 height=200cm align="center">Connection</h1>
+<img src"=https://i.imgur.com/3ykbALG.gif">	
+</p>
+</div>
+<p>
 
 <img height="120cm" align="center" id="Twitter" src="https://i.imgur.com/qCNG93Z.png"> 
 <img height="120cm" align="center" id"Xbox" src="https://i.imgur.com/JuFWG8m.png"/>
@@ -56,7 +64,6 @@
 
 <div>
 <p>
-	
 <h1 align="center">End :)</h1 align="down">		
 	
 <img height="90cm" align="left" src="https://i.imgur.com/s82OT10.gif"/>
