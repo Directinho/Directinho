@@ -60,6 +60,9 @@
 <img height="120cm" align="center" id="Gamejolt" src="https://i.imgur.com/fIYdmV9.png"/>
 </p>
 <p>
+<img height="15cm" weight="15" alt="Website" event.site(onclick)="https://steamcommunity.com/id/AqueleDirect/" src="https://img.shields.io/website?color=blue&down_color=dark&down_message=online&label=%E3%8B%94%20O%20DIRECT%20DO%20MATO%20%E3%83%84&logo=Steam&logoColor=light&style=for-the-badge&up_color=blue&up_message=Steam&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2FAqueleDirect%2F">
+</p>
+<p>
 <img height="120cm" align="center" id="Newgrounds" src="https://i.imgur.com/onYM3YN.png"/> 
 </p>
 <p>
