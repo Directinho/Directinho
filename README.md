@@ -60,7 +60,7 @@
 <h1 align="center">End :)</h1 align="down">		
 	
 <img height="100cm" align="left" src="https://i.imgur.com/s82OT10.gif"/>
-<img height="130cm" align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif"/>
+<img height="130cm" align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 <img height="100cm" align="center" src="https://i.imgur.com/s82OT10.gif"/>
 	
 </p>
