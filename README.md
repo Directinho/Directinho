@@ -43,10 +43,10 @@
 <body>
 <div>
 <p>
+<h1 height="150" align="center">Connections</h>
+<img height="100" align="left" src="https://i.imgur.com/3ykbALG.gif"/>
+<img height="100" align="right" src="https://i.imgur.com/3ykbALG.gif"/>
 
-<img src"=https://i.imgur.com/3ykbALG.gif">	
-</p><h1 height=200cm align="center">Connection</h1>
-<img src"=https://i.imgur.com/3ykbALG.gif">	
 </p>
 </div>
 <p>
