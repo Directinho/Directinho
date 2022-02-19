@@ -75,12 +75,11 @@
 <p>
 <h1 align="center">End :)</h1 align="down">		
 	
-<img height="180cm" align="left" src="https://i.imgur.com/s82OT10.gif"/>
 	
 ![Snake animation](https://github.com/Directinho/DirectDev/blob/output/github-contribution-grid-snake.svg)
 	
-<img height="180cm" align="center" src="https://i.imgur.com/s82OT10.gif"/>
-	
+<img height="200cm" align="center" src="https://i.imgur.com/s82OT10.gif"/>
+
 </p>
 </div>
 </body>
