@@ -51,8 +51,8 @@
 </p>
 </div>
 <p>
-<img height="120cm" align="center" id"Steam" src="https://i.imgur.com/trn2Gyb.png"/>
-<img height="120cm" align="center" id"Xbox" src="https://i.imgur.com/JuFWG8m.png"/>
+<img height="140cm" align="center" id"Steam" src="https://i.imgur.com/trn2Gyb.png"/>
+<img height="140cm" align="center" id"Xbox" src="https://i.imgur.com/JuFWG8m.png"/>
 <img height="120cm" align="center" id="PS4" src="https://i.imgur.com/580TZ9e.png"/> 
 <img height="120cm" align="center" id="Twitter" src="https://i.imgur.com/qCNG93Z.png"/> 
 <img height="120cm" align="center" id"Medal" src="https://i.imgur.com/wS8Ekmn.png"/>
@@ -60,16 +60,14 @@
 <img height="120cm" align="center" id="Gamejolt" src="https://i.imgur.com/fIYdmV9.png"/>
 </p>
 <p>
-<a href="http://https://steamcommunity.com/id/AqueleDirect//">
-<button img= src="https://img.shields.io/website?down_color=blue&down_message=Steam&label=%E3%8B%94%20O%20DIRECT%20DO%20MATO%20%E3%83%84%20&logo=Steam&style=for-the-badge&up_color=blue&up_message=Steam&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2FAqueleDirect%2F"></button>
 </a>
-<img height="15cm" alt="Website" src="https://img.shields.io/website?down_color=yellow&down_message=Medal&label=Tio%20Direct%E3%83%84&logo=Minecraft&up_color=Yellow&up_message=Medal&url=https%3A%2F%2Fmedal.tv%2Fu%2FTio%2520Direct%25E3%2583%2584%3Finvite%3Dur-MSxlbTUsMzA4NTMzNzks">
+<a href="https://steamcommunity.com/id/AqueleDirect/"target="_blank"><img alt="Steam" height="18cm" weight="18cm" src="https://img.shields.io/website?down_color=blue&down_message=Steam&label=%E3%8B%94%20O%20DIRECT%20DO%20MATO%20%E3%83%84%20&logo=Steam&style=for-the-badge&up_color=blue&up_message=Steam&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2FAqueleDirect%2F">
+<a href="https://medal.tv/pt/u/Tio%20Direct%E3%83%84?invite=ur-MSxWMUMsMzA4NTMzNzks"><img height="18cm" alt="Medal" src="https://img.shields.io/website?down_color=yellow&down_message=Steam&label=%E3%8B%94%20O%20DIRECT%20DO%20MATO%20%E3%83%84%20&logo=counterstrike&style=for-the-badge&up_color=yellow&up_message=Steam&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2FAqueleDirect%2F">
 </p>
 <p>
 <img height="120cm" align="center" id="Newgrounds" src="https://i.imgur.com/onYM3YN.png"/> 
 </p>
 <p>
-
 </p>
 </div>
 
