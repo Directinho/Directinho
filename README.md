@@ -53,7 +53,7 @@
 <p>
 <img height="140cm" align="center" id"Steam" src="https://i.imgur.com/trn2Gyb.png"/>
 <img height="140cm" align="center" id"Xbox" src="https://i.imgur.com/JuFWG8m.png"/>
-<img height="120cm" align="center" id="PS4" src="https://i.imgur.com/580TZ9e.png"/> 
+<img height="140cm" align="center" id="PS4" src="https://i.imgur.com/i24CpdS.png"/> 
 <img height="120cm" align="center" id="Twitter" src="https://i.imgur.com/qCNG93Z.png"/> 
 <img height="120cm" align="center" id"Medal" src="https://i.imgur.com/wS8Ekmn.png"/>
 <img height="120cm" align="center" id"GameBanana" src="https://i.imgur.com/Uj3fGeC.png"/>
