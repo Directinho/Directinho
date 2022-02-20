@@ -60,7 +60,7 @@
 <p align="center">
 </a>
 <a href="https://steamcommunity.com/id/AqueleDirect/"target="_blank"><img alt="Steam" height="18cm" weight="18cm" align="left" src="https://img.shields.io/website?down_color=blue&down_message=Steam&label=%E3%8B%94%20O%20DIRECT%20DO%20MATO%20%E3%83%84%20&logo=Steam&style=for-the-badge&up_color=blue&up_message=Steam&url=https%3A%2F%2Fsteamcommunity.com%2Fid%2FAqueleDirect%2F">
-<a href="https://medal.tv/pt/u/Tio%20Direct%E3%83%84?invite=ur-MSxWMUMsMzA4NTMzNzks"><img height="18cm" alt="Medal" align="center"src="https://img.shields.io/website?down_color=yellow&down_message=Medal&label=Tio%Directツ&logo=counter-strike&logoColor=yellow&up_color=yellow&up_message=Medal&url=https%3A%2F%2Fmedal.tv%2Fpt%2Fu%2FTio%2520Direct%25E3%2583%2584%3Finvite%3Dur-MSxXeUYsMzA4NTMzNzks">
+<a href="https://medal.tv/pt/u/Tio%20Direct%E3%83%84?invite=ur-MSxWMUMsMzA4NTMzNzks"><img height="18cm" alt="Medal" align="center"src="https://img.shields.io/website?down_color=yellow&down_message=Medal&label=Tio%20Direct%E3%83%84&up_color=yellow&up_message=Medal&url=https%3A%2F%2Fmedal.tv%2Fpt%2Fu%2FTio%2520Direct%25E3%2583%2584%3Finvite%3Dur-MSxoV2QsMzA4NTMzNzks">
 <a href="https://twitter.com/Odirect6"><img height="18cm" alt="twitter" align="right"src="https://img.shields.io/website?down_color=blue&down_message=Twitter&label=%40Odirect6&logo=twitter&style=social&up_color=blue&up_message=%40Odirect6&url=https%3A%2F%2FTwitter%2F%40Odirect6"/>
 </p>
 <p align="center">
@@ -68,10 +68,10 @@
 <img height="120cm" align="center" id"GameBanana" src="https://i.imgur.com/Uj3fGeC.png"/>
 <img height="120cm" align="right" id="Gamejolt" src="https://i.imgur.com/fIYdmV9.png"/>
 </p>
-<p>
+<p align="center">
 <a href="https://account.xbox.com/pt-br/profile?gamertag=DirectCartoon76"><img height="18cm" alt="xbpx" align="left" src="https://img.shields.io/website?down_color=light&down_message=Xbox%20Profile&label=Odirect6&logo=Xbox&logoColor=green&up_color=green&up_message=Xbox&url=https%3A%2F%2Faccount.xbox.com%2Fpt-br%2Fprofile%3Fgamertag%3DDirectCartoon76">
 <a href="https://gamebanana.com/members/1799308"><img height="18cm" alt="gamebanana" align="center" src="https://img.shields.io/website?down_color=yellow&down_message=GameBanana&label=Tio%20Direct%E3%83%84&up_color=yellow&up_message=GameBanana&url=https%3A%2F%2Fgamebanana.com%2Fmembers%2F1799308">
-
+<a href="https://gamejolt.com/@TioDirect"><img height="18cm" alt="gamejooj" align="right" src="https://img.shields.io/website?down_color=green&down_message=GameJolt&label=%40TioDirect&logo=GameJolt&style=plastic&up_message=GameJolt&url=https%3A%2F%2Fgamejolt.com%2F%40TioDirect">
 </p>
 <p>
 <img height="120cm" align="center" id="Newgrounds" src="https://i.imgur.com/onYM3YN.png"/> 
