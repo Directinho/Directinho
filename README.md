@@ -73,9 +73,10 @@
 <a href="https://gamebanana.com/members/1799308"><img height="18cm" alt="gamebanana" align="center" src="https://img.shields.io/website?down_color=yellow&down_message=GameBanana&label=Tio%20Direct%E3%83%84&up_color=yellow&up_message=GameBanana&url=https%3A%2F%2Fgamebanana.com%2Fmembers%2F1799308">
 <a href="https://gamejolt.com/@TioDirect"><img height="18cm" alt="gamejooj" align="right" src="https://img.shields.io/website?down_color=green&down_message=GameJolt&label=%40TioDirect&logo=GameJolt&style=plastic&up_message=GameJolt&url=https%3A%2F%2Fgamejolt.com%2F%40TioDirect">
 </p>
-<p>
-<img height="120cm" align="center" id="Newgrounds" src="https://i.imgur.com/onYM3YN.png"/> 
-
+<p align="center">
+<img height="140cm" align="left" id="Newgrounds" src="https://i.imgur.com/onYM3YN.png"/> 
+<img height="140cm" align="center" id="itch" src="https://i.imgur.com/VYrs3HB.png"/> 
+<img height="140cm" align="right" id="itch" src="https://i.imgur.com/VYrs3HB.png"/> 
 </p>
 </div>
 
