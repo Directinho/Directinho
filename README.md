@@ -64,9 +64,9 @@
 <a href="https://twitter.com/Odirect6"><img height="18cm" alt="twitter" align="right"src="https://img.shields.io/website?down_color=blue&down_message=Twitter&label=%40Odirect6&logo=twitter&style=social&up_color=blue&up_message=%40Odirect6&url=https%3A%2F%2FTwitter%2F%40Odirect6"/>
 </p>
 <p align="center">
-<img height="120cm" align="left" id"Medal" src="https://i.imgur.com/wS8Ekmn.png"/>
-<img height="120cm" align="center" id"GameBanana" src="https://i.imgur.com/Uj3fGeC.png"/>
-<img height="120cm" align="right" id="Gamejolt" src="https://i.imgur.com/fIYdmV9.png"/>
+<img height="140cm" align="left" id"Medal" src="https://i.imgur.com/wS8Ekmn.png"/>
+<img height="140cm" align="center" id"GameBanana" src="https://i.imgur.com/Uj3fGeC.png"/>
+<img height="140cm" align="right" id="Gamejolt" src="https://i.imgur.com/fIYdmV9.png"/>
 </p>
 <p align="center">
 <a href="https://account.xbox.com/pt-br/profile?gamertag=DirectCartoon76"><img height="18cm" alt="xbpx" align="left" src="https://img.shields.io/website?down_color=light&down_message=Xbox%20Profile&label=Odirect6&logo=Xbox&logoColor=green&up_color=green&up_message=Xbox&url=https%3A%2F%2Faccount.xbox.com%2Fpt-br%2Fprofile%3Fgamertag%3DDirectCartoon76">
