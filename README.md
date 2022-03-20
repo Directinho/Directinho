@@ -76,7 +76,7 @@
 <p align="center">
 <img height="140cm" align="left" id="Newgrounds" src="https://i.imgur.com/onYM3YN.png"/> 
 <img height="140cm" align="center" id="itch" src="https://i.imgur.com/VYrs3HB.png"/> 
-<img height="140cm" align="right" id="itch" src="https://i.imgur.com/VYrs3HB.png"/> 
+<img height="140cm" align="right" id="igdb" src="https://i.imgur.com/XfwLApK.png"/> 
 </p>
 </div>
 
