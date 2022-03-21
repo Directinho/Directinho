@@ -101,6 +101,6 @@
 </div>
 <div>
 	<p>
-<a href"https://youtu.be/dQw4w9WgXcQ"><img height="15cm" alt="lol" src="https://img.shields.io/website?label=%3F%3F%3F%3F&logo=Open%20Bug%20Bounty&up_color=red&up_message=No%20click%20here&url=https%3A%2F%2Fyoutu.be%2FdQw4w9WgXcQ">
+<a href"https://youtu.be/dQw4w9WgXcQ"><img height="15cm" alt="lol" src="https://img.shields.io/website?color=red&down_color=red&label=alert&logo=Open%20Bug%20Bounty&logoColor=red&up_color=red&up_message=No%20click%20here&url=https%3A%2F%2Fyoutu.be%2FdQw4w9WgXcQ">
 </p>
 	</div>
