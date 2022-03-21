@@ -76,13 +76,16 @@
 <p align="center">
 <img height="140cm" align="left" id="Newgrounds" src="https://i.imgur.com/onYM3YN.png"/> 
 <img height="140cm" align="center" id="itch" src="https://i.imgur.com/VYrs3HB.png"/> 
-<img height="140cm" align="right" id="igdb" src="https://i.imgur.com/XfwLApK.png"/> 
-</p>
+<img height="140cm" align="right" id="twich" src="https://i.imgur.com/zg9jpnn.png"> 
+	</p>
 	</div>
+	</p>
 	<div>
 <p align="center">
 <a href="https://tiodirect.newgrounds.com"><img height="18cm" alt="newgrounds" align="left" src="https://img.shields.io/website?down_color=lightyellow&label=TioDirect&logo=firefox&logoColor=yellow&style=plastic&up_color=yellow&up_message=Newgrounds%20Profile&url=https%3A%2F%2Ftiodirect.newgrounds.com">
-
+<a href="https://directdev.itch.io"><img height="18cm" alt"itcha" align="center" src="https://img.shields.io/website?down_color=brightred&label=DirectDev&logo=itch.io&style=for-the-badge&up_color=red&up_message=Itch.io%20Profile&url=https%3A%2F%2Fdirectdev.itch.io">
+<a href="https://www.twitch.tv/otaldodirect"><img height="18cm" alt align="right" src="https://img.shields.io/website?label=otaldodirect&logo=Twitch&style=flat-square&up_color=purple&up_message=Profile%20to%20watch%20on%20twitch&url=https%3A%2F%2Fwww.twitch.tv%2Fotaldodirect">
+</div>
 <div>
 <p>
 <h1 align="center">End :)</h1 align="down">		
