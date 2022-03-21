@@ -78,7 +78,10 @@
 <img height="140cm" align="center" id="itch" src="https://i.imgur.com/VYrs3HB.png"/> 
 <img height="140cm" align="right" id="igdb" src="https://i.imgur.com/XfwLApK.png"/> 
 </p>
-</div>
+	</div>
+	<div>
+<p align="center">
+<a href="https://tiodirect.newgrounds.com"><img height="18cm" alt="newgrounds" align="left" src="https://img.shields.io/website?down_color=lightyellow&label=TioDirect&logo=firefox&logoColor=yellow&style=plastic&up_color=yellow&up_message=Newgrounds%20Profile&url=https%3A%2F%2Ftiodirect.newgrounds.com">
 
 <div>
 <p>
