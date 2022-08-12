@@ -90,11 +90,11 @@
 		<p align="center">
 <img height="140cm" align="left" id="ani" src="https://i.imgur.com/a6NKcin.png"/> 
 <img height="140cm" align="center" id=kitsu" src="https://i.imgur.com/XzgU5Fj.png"/> 
-<img height="140cm" align="right" id="playstation" src="https://i.imgur.com/Peldrog.png](https://i.imgur.com/0c0S913.png"> 
+<img height="140cm" align="right" id="playstation" src="https://i.imgur.com/0c0S913.png"> 
 	</p>
 		<a href="https://anilist.co/user/TioDirect/"><img height="18cm" alt="anilist" align="left" src="https://img.shields.io/website?down_color=grey&down_message=Anilist%20Profile&label=Anilist%20Profile&logo=anilist&style=flat-square&up_color=blue&up_message=TioDirect&url=https%3A%2F%2Fanilist.co%2F">
                  <a href="https://kitsu.io/users/Directinho"><img height="18cm" alt="kitsuu" align="center" src="https://img.shields.io/website?down_message=Kitsu%20Profile&label=Kitsu%20Profile&logo=Kitsu&up_color=orange&up_message=TioDirect&url=https%3A%2F%2Fanilist.co%2F">
-		   <a href="https://psnprofiles.com/TioDirect"><img height="18cm" alt="epic" align="right" src="https://img.shields.io/website?down_message=Kitsu%20Profile&label=My%20PSN&logo=playstation&logoColor=blue&up_color=blue&up_message=TioDirect&url=https%3A%2F%2Fpsnprofiles.com%2FTioDirect">
+		   <a href="https://psnprofiles.com/TioDirect"><img height="18cm" alt="psn" align="right" src="https://img.shields.io/website?down_message=Kitsu%20Profile&label=My%20PSN&logo=playstation&logoColor=blue&up_color=blue&up_message=TioDirect&url=https%3A%2F%2Fpsnprofiles.com%2FTioDirect">
 
 </p>
 <div>
