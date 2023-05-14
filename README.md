@@ -97,15 +97,15 @@
 		   <a href="https://psnprofiles.com/TioDirect"><img height="18cm" alt="psn" align="right" src="https://img.shields.io/website?down_message=Kitsu%20Profile&label=My%20PSN&logo=playstation&logoColor=blue&up_color=blue&up_message=TioDirect&url=https%3A%2F%2Fpsnprofiles.com%2FTioDirect">
 
 </p>
-<div>
+<div align="center">
 <p>
-<h1>SUSSY'S PROFILESඞ</h1>
-<img src="https://i.imgur.com/toGLU3C.png" align="left">
-						       <a href="https://github.com/SussyBaka06" align="left">ඞ</a>
-						       <img src="https://i.imgur.com/Rendpau.png" align="right">
-<a href="https://github.com/TheNewSussyBaka" align="right">
-
-							  <div>
+<h1>SUSSY'S PROFILESඞ</h1>							    
+<img src="https://i.imgur.com/toGLU3C.png" align="center" height="150">								    
+<a href="https://github.com/SussyBaka06">SussyBaka06ඞ</a>	<br>	
+<img src="https://i.imgur.com/Rendpau.png" align="center" height="150"> 					
+<a href="https://github.com/TheNewSussyBaka">TheNewSussyBakaඞ</a>
+					    </div>
+					    <div>
 <h1 align="center">End :)</h1 align="down">		
 	
 	
@@ -113,7 +113,6 @@
 	
 <img height="200cm" align="center" src="https://i.imgur.com/s82OT10.gif"/>
 
-									</div>
 </p>
 </div>
 </body>
