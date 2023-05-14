@@ -99,6 +99,12 @@
 </p>
 <div>
 <p>
+<h1>SUSSY'S PROFILESඞ</h1>
+<img src="https://i.imgur.com/toGLU3C.png" align="left">
+						       <a href="https://github.com/SussyBaka06" align="left">ඞ</a>
+						       <img src="https://i.imgur.com/Rendpau.png" align="right">
+<a href="https://github.com/TheNewSussyBaka" align="right">
+
 <h1 align="center">End :)</h1 align="down">		
 	
 	
