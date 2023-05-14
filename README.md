@@ -105,6 +105,7 @@
 						       <img src="https://i.imgur.com/Rendpau.png" align="right">
 <a href="https://github.com/TheNewSussyBaka" align="right">
 
+							  <div>
 <h1 align="center">End :)</h1 align="down">		
 	
 	
@@ -112,6 +113,7 @@
 	
 <img height="200cm" align="center" src="https://i.imgur.com/s82OT10.gif"/>
 
+									</div>
 </p>
 </div>
 </body>
