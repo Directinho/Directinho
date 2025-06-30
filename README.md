@@ -9,8 +9,9 @@
 <h2>🟥 Technologies & Tools</h2>
 <ul>
 <li>Languages: JavaScript</li>
-<li>Frameworks: Bootstrap and Node.js</li>
+<li>Frameworks: Bootstrap, Ionic and Node.js</li>
 <li>Databases: SQL Server and MongoDB</li>
+<li>Library: React.js</li>
 </ul>
 <h2>🔻Fun Facts:</h2>
 <p>🎉 I live in Brazil</p>
