@@ -13,7 +13,7 @@
 <li>Databases: SQL Server and MongoDB</li>
 <li>Library: React.js</li>
 </ul>
-<h2>Github Stats</h2>
+<h2>📊Github Stats</h2>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Directinho&show_icons=true&bg_color=0d1117&text_color=ffffff&icon_color=fafafa" alt="Directinho Stats" height="150px" width="400px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Directinho&layout=compact&show_icons=true&bg_color=0d1117&text_color=ffffff&icon_color=fafafa" alt="Directinho Stats2" height="150px" width="400px">
