@@ -50,7 +50,7 @@
 <p class="flex-container">Arts Portfolios</p>     
 </div>
 <div align="center">
-  <a href="https://www.artstation.com/directt"><img src="https://i.imgur.com/gRnLMJW.png" height="100px" width="100px></a>
+  <a href="https://www.artstation.com/directt"><img src="https://i.imgur.com/gRnLMJW.png" height="100px" width="100px"></a>
 <a href="https://pinterest.com/AqueleDirect/"><img src="https://i.imgur.com/hGmgrwU.png" height="100px" width="100px"></a>
 </div>
 
