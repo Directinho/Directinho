@@ -4,7 +4,8 @@
 
 <h2>🔴About Me:</h2>
 <p>🌱 Always looking to learn new technologies and improve myself.</p>
-<p>👨‍💻 Studying at FIAP School</p> 
+<p>🏫Software Engineering student at FIAP College🏫</p> 
+<p>🎓Graduated in Systems Development at FIAP School🎓</p>
 <p>🔍 Interests: Web Development, Front-End, and API Integrations</p>
 <h2>🟥 Technologies & Tools</h2>
 <ul>
