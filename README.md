@@ -9,13 +9,13 @@
 <p>🔍 Interests: Web Development, Front-End, and API Integrations</p>
 <h2>🟥 Technologies & Tools</h2>
 <ul>
-<li>Languages: JavaScript</li>
+<li>Languages: JavaScript, Python and TypeScript</li>
 <li>Frameworks: Bootstrap, Ionic and Node.js</li>
 <li>Databases: SQL Server and MongoDB</li>
 <li>Library: React.js</li>
 </ul>
 <h2>📊Github Stats</h2>
-<div align="center">
+<div>
   <img src="./profile/stats.svg" alt="GitHub Stats" height="180" />
   <img src="./profile/top-langs.svg" alt="Top Languages" height="180" />
 </div>
