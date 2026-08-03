@@ -17,7 +17,7 @@
 <h2>📊Github Stats</h2>
 <div>
   <img src="./profile/stats.svg" alt="GitHub Stats" height="180" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Directinho&langs_count=5&theme=github_dark" alt="Top Languages" height="180" />
 </div>
 <h2>🔻Fun Facts:</h2>
 <p>🎉 I live in Brazil</p>
